@@ -1,0 +1,4 @@
+package org.algoritmica.benchmark.jmh_generated;
+public class TiemposMatrizEnterosCuadradaApp_BenchmarkState_jmhType extends TiemposMatrizEnterosCuadradaApp_BenchmarkState_jmhType_B3 {
+}
+
